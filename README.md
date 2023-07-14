@@ -8,6 +8,10 @@ This repository contains the code for a Math Application built using various AWS
 - **IAM**: Grants necessary permissions to the Lambda function to interact with DynamoDB.
 - **DynamoDB**: Stores the output of the math computations.
 
+## Project Architecture
+
+![Screenshot from 2023-07-14 18-19-14](https://github.com/abdulmalik-devs/terraform-serverless-service/assets/62616273/680aaf87-d8b7-4764-8c81-b8ffc3a5d5c0)
+
 ## Project Demo
 
 [Screencast from 2023-07-14 15-38-59.webm](https://github.com/abdulmalik-devs/python_dictionary_app/assets/62616273/b496f182-3464-4b8d-8b86-931e76278fa2)
