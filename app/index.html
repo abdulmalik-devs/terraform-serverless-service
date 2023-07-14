@@ -57,7 +57,7 @@
                 redirect: 'follow'
             };
             // make API call with parameters and use promises to get response
-            fetch("https://r1b8s3vxz3.execute-api.us-west-1.amazonaws.com/Dev", requestOptions)
+            fetch("YOUR API GATEWAY ENDPOINT", requestOptions)
             .then(response => response.text())
             .then(result => alert(JSON.parse(result).body))
             .catch(error => console.log('error', error));
