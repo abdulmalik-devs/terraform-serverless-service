@@ -10,7 +10,7 @@ This repository contains the code for a Math Application built using various AWS
 
 ## Project Architecture
 
-![Screenshot from 2023-07-14 18-19-14](https://github.com/abdulmalik-devs/terraform-serverless-service/assets/62616273/680aaf87-d8b7-4764-8c81-b8ffc3a5d5c0)
+![Screenshot from 2023-07-14 18-22-54](https://github.com/abdulmalik-devs/terraform-serverless-service/assets/62616273/50aeba75-905d-4bf6-b4a6-036ee22cef74)
 
 ## Project Demo
 
