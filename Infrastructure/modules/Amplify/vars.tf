@@ -1,0 +1,1 @@
+variable "amplify_name" {}
